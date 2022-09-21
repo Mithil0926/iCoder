@@ -1,0 +1,5 @@
+@media(max-widh:50em){
+    .card-img-right{
+     display: none;
+    }
+ }
